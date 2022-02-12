@@ -1,5 +1,7 @@
 [core]
     analytics = false
     remote = remote_storage
+[cache]
+    dir = /Users/qq/dvc_cache
 ['remote "remote_storage"']
     url = /Users/qq/dvc_remote
